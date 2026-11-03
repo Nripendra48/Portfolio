@@ -54,8 +54,8 @@ const experiences = [
 export default function Experience() {
   return (
     <section
-        id="experience"
-        className="min-h-screen scroll-mt-24 bg-background px-6 py-24 text-foreground">
+    id="experience"
+    className="min-h-screen scroll-mt-20 bg-background px-4 py-16 text-foreground sm:px-6 sm:py-24">
       <div className="mx-auto max-w-5xl">
         <div className="mb-16 text-center">
           <p className="mb-3 text-sm font-semibold uppercase tracking-[0.3em] text-accent">
