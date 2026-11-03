@@ -40,7 +40,7 @@ export default function Footer() {
       <footer className="border-t border-border">
         <div className="mx-auto flex max-w-6xl flex-col justify-between gap-3 px-6 py-6 text-sm text-muted sm:flex-row">
           <p>
-            © {year ?? "2026"} Nripnedra. All rights reserved.
+            © {year ?? "2026"} Nripendra. All rights reserved.
           </p>
 
           <a href="#home" className="hover:text-accent">

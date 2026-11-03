@@ -58,7 +58,7 @@ export default function Hero() {
         <pre className="overflow-x-auto text-sm leading-8 sm:text-base">
           <code>
             <span className="text-accent">const</span> developer = {"{\n"}
-            {"  "}name: "Nripnedra",{"\n"}
+            {"  "}name: "Nripendra",{"\n"}
             {"  "}role: "Software Engineer",{"\n"}
             {"  "}skills: ["Python", "React","Nextjs","AWS","Lambda","Docker","MySQL"],{"\n"}
             {"  "}passion: "Building","Problem Solving"{"\n"}
