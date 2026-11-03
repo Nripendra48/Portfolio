@@ -11,8 +11,8 @@ export default function Navbar() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl">
-      <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6 sm:py-4">
+    <header className="relative z-50 border-b border-border bg-background/85">
+    <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6 sm:py-4">
 
         {/* Logo */}
         <Link href="/#home" className="shrink-0 text-lg font-bold sm:text-xl">
