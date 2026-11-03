@@ -16,7 +16,7 @@ export default function Navbar() {
 
         <Link href="/" className="text-xl font-bold">
           <span className="text-accent">{"<"}</span>
-          DevPortfolio
+          NYPortfolio
           <span className="text-accent">{" />"}</span>
         </Link>
 
