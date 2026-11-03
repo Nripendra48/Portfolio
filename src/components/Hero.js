@@ -59,9 +59,7 @@ export default function Hero() {
           <code>{`const developer = {
   name: "Nripendra",
   role: "Software Engineer",
-  skills: ["Python","Next.js",
-    "AWS",
-  ],
+  skills: ["Python","Next.js","AWS"],
   passion: [
     "Building",
     "Problem Solving"
